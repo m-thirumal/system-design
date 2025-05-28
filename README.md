@@ -4,7 +4,7 @@ A good design means that your system will keep running smoothly, using resources
 
 * Scalability
 * Reliability
-*
+* Zero-Trust in network
 
 ## Component
 

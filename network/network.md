@@ -2,7 +2,9 @@
 
 ## Network security
 
-Place `ZERO-TRUST` in network, protect all communication channel with `TLS`.
+`BEST PRACTICE:` Place `ZERO-TRUST` in all networks, including internal “secure” networks. 
+
+!> Use TLS everywhere for all application communication channels with everyone and everything.
 
 It is a best practice to operate under the zero-trust networking model where you assume
 that the network is always untrusted. Treat the internal data center network with the same
