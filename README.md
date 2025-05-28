@@ -6,6 +6,10 @@ A good design means that your system will keep running smoothly, using resources
 * Reliability
 *
 
+## Component
+
+* [Database](database/database.md)
+* [Network](network/network.md)
 
 ### Problem analysis in system design
 
