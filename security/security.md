@@ -1,4 +1,4 @@
 # Securing Application
 
-* [Network](network.md) - ZERO-TRUST on communication channel
-* [Dependency](dependency.md)
+* [Network](security/network.md) - ZERO-TRUST on communication channel
+* [Dependency](security/dependency.md)
