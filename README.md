@@ -9,7 +9,7 @@ A good design means that your system will keep running smoothly, using resources
 ## Component
 
 * [Database](database/database.md)
-* [Network](network/network.md)
+* [Securing System](security/security.md)
 
 ### Problem analysis in system design
 
